@@ -27,10 +27,12 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb&logoColor=#1F8637)
 
-**Utilidades**
+**API REST**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
 
 **DevOps**
 
@@ -41,7 +43,7 @@
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=#8D51C7)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
