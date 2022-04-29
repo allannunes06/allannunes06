@@ -7,17 +7,24 @@
 ----
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
-
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=00599C)
-  ![Node](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=javascript&logoColor=81B847)
+**Front-end**
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ 
+**Back-end**
+
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=00599C)
+  ![Node](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=javascript&logoColor=81B847)
   ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=C%2B%2B&&logoColor=993399)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+**Banco de dados**
+
+  ![Sql Server](https://img.shields.io/badge/-Sql%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=#1F8637)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb&logoColor=#1F8637)
 
 **Utilidades**
 
