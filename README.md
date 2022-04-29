@@ -2,27 +2,34 @@
 
 <br>
 
- :star: Hi, I'm Allan, I'm 30 years old and starting a career transition to programming.
+ :star: Desenvolvedor Fullstack
 
 ----
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
 **Aplicações e Dados**
 
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de Desenvolvimento**
 
@@ -33,7 +40,6 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
-
 
 
 <br/>
